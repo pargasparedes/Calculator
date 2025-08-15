@@ -1,5 +1,6 @@
 {
   "name": "calculator",
+  "homepage": "https://pargasparedes.github.io/Calculator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
